@@ -1,2 +1,2 @@
 # saabzhi.github.io
-Myselt blog
+Myself blog
